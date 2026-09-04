@@ -9,4 +9,4 @@ CreateDatabase:Name=IRISAPP_CODE,Directory=/usr/irissys/mgr/IRISAPP_CODE,Resourc
 CreateNamespace:Name=IRISAPP,Globals=IRISAPP_DATA,Routines=IRISAPP_CODE,Interop=1
 
 [Startup]
-SystemMode=IRIS AI Future
+SystemMode=IRIS AI Future New Version
